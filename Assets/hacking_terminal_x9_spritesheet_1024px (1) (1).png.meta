@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 1ab2c85add60949eab18e4f2c4fc3af7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4810685672228967644
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_0
+  - first:
+      213: -5761173990669636454
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_1
+  - first:
+      213: 1317905274639211178
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_2
+  - first:
+      213: 2272101455344825262
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_3
+  - first:
+      213: -6331380039931257331
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_4
+  - first:
+      213: -7471305952063251633
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_5
+  - first:
+      213: 9216699006870864701
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_6
+  - first:
+      213: -3002452699934723662
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_7
+  - first:
+      213: 3682452723591229876
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_8
+  - first:
+      213: 9060763289585591417
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_9
+  - first:
+      213: 9128662505587384989
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_10
+  - first:
+      213: 4693494138492750274
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_11
+  - first:
+      213: -2112071420394926166
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_12
+  - first:
+      213: 566892175670871642
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_13
+  - first:
+      213: 6566095935228092266
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_14
+  - first:
+      213: 635770927073934954
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_15
+  - first:
+      213: 4539547933263384690
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_16
+  - first:
+      213: 7742659986053137880
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_17
+  - first:
+      213: 5573698849345692039
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_18
+  - first:
+      213: 7461293147090226148
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_19
+  - first:
+      213: 5665156293827218689
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_20
+  - first:
+      213: 1763898350749528599
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_21
+  - first:
+      213: -2209972333057206676
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_22
+  - first:
+      213: -3570165278149538953
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_23
+  - first:
+      213: -3672016370041198366
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_24
+  - first:
+      213: -4522371558791756243
+    second: hacking_terminal_x9_spritesheet_1024px (1) (1)_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3633
+        width: 219
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4d44b712df2c240800000000000000
+      internalID: 4810685672228967644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3649
+        width: 453
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9caaec87c23c00b0800000000000000
+      internalID: -5761173990669636454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 3649
+        width: 223
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaadb7e5dd32a4210800000000000000
+      internalID: 1317905274639211178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 3620
+        width: 452
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3f97b4c30288f10800000000000000
+      internalID: 2272101455344825262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_4
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 3665
+        width: 220
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e16e5166b6228a0800000000000000
+      internalID: -6331380039931257331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_5
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 3128
+        width: 798
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b120f32d6905890800000000000000
+      internalID: -7471305952063251633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_6
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 3650
+        width: 217
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33cb322aea48ef70800000000000000
+      internalID: 9216699006870864701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_7
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 3128
+        width: 802
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b17a755d252556d0800000000000000
+      internalID: -3002452699934723662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 3128
+        width: 802
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b133dbdd33ba1330800000000000000
+      internalID: 3682452723591229876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 3611
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97426a5b43c4ebd70800000000000000
+      internalID: 9060763289585591417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 3128
+        width: 799
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92a6ffde268fae70800000000000000
+      internalID: 9128662505587384989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2164
+        width: 904
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c90d304d04a22140800000000000000
+      internalID: 4693494138492750274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 2164
+        width: 906
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf0b1fbb3a60b2e0800000000000000
+      internalID: -2112071420394926166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_13
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 2164
+        width: 906
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a568fc42e610ed700800000000000000
+      internalID: 566892175670871642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_14
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 2164
+        width: 906
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f1864e6757f1b50800000000000000
+      internalID: 6566095935228092266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1572
+        width: 248
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e33ca2a46b2d800800000000000000
+      internalID: 635770927073934954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1557
+        width: 246
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270d5033bc6bffe30800000000000000
+      internalID: 4539547933263384690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_17
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 1080
+        width: 488
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d504552c34737b60800000000000000
+      internalID: 7742659986053137880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_18
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 1082
+        width: 487
+        height: 826
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781e040a291c95d40800000000000000
+      internalID: 5573698849345692039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1080
+        width: 482
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb8e5de596db8760800000000000000
+      internalID: 7461293147090226148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1080
+        width: 487
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dc3aa42adae9e40800000000000000
+      internalID: 5665156293827218689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 60
+        width: 483
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712b2585430aa7810800000000000000
+      internalID: 1763898350749528599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_22
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 533
+        width: 246
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c661fac3fd99451e0800000000000000
+      internalID: -2209972333057206676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 60
+        width: 484
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b86765899347ec0800000000000000
+      internalID: -3570165278149538953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_24
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 60
+        width: 483
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8664e01906a0dc0800000000000000
+      internalID: -3672016370041198366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacking_terminal_x9_spritesheet_1024px (1) (1)_25
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 60
+        width: 486
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2643ef170f4d31c0800000000000000
+      internalID: -4522371558791756243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_0: 4810685672228967644
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_1: -5761173990669636454
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_10: 9128662505587384989
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_11: 4693494138492750274
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_12: -2112071420394926166
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_13: 566892175670871642
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_14: 6566095935228092266
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_15: 635770927073934954
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_16: 4539547933263384690
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_17: 7742659986053137880
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_18: 5573698849345692039
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_19: 7461293147090226148
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_2: 1317905274639211178
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_20: 5665156293827218689
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_21: 1763898350749528599
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_22: -2209972333057206676
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_23: -3570165278149538953
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_24: -3672016370041198366
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_25: -4522371558791756243
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_3: 2272101455344825262
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_4: -6331380039931257331
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_5: -7471305952063251633
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_6: 9216699006870864701
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_7: -3002452699934723662
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_8: 3682452723591229876
+      hacking_terminal_x9_spritesheet_1024px (1) (1)_9: 9060763289585591417
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1635 @@
+fileFormatVersion: 2
+guid: b55b8a32edc9a45f28358af455809ad0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 693693871812365050
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_0
+  - first:
+      213: 4393716249460502534
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_1
+  - first:
+      213: -5753325241754347992
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_2
+  - first:
+      213: -494240892861211793
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_3
+  - first:
+      213: -8802797381303837134
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_4
+  - first:
+      213: 3914794781719974021
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_5
+  - first:
+      213: -1907609745863763348
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_6
+  - first:
+      213: 2308589347663273743
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_7
+  - first:
+      213: -8890105806716519545
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_8
+  - first:
+      213: -2954563073981337133
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_9
+  - first:
+      213: 8711902668002486485
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_10
+  - first:
+      213: 9087376517890128255
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_11
+  - first:
+      213: 5500542195844766029
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_12
+  - first:
+      213: 4292217878126531912
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_13
+  - first:
+      213: 93228611809946793
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_14
+  - first:
+      213: -4859174158182107595
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_15
+  - first:
+      213: 4453337529749232289
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_16
+  - first:
+      213: 6186482530875516129
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_17
+  - first:
+      213: 7419719652364038468
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_18
+  - first:
+      213: -4576872281860928409
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_19
+  - first:
+      213: -5631279611960359429
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_20
+  - first:
+      213: 1866771256334150797
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_21
+  - first:
+      213: 5737295982722776408
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_22
+  - first:
+      213: -3059576577108830602
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_23
+  - first:
+      213: -7607588806098746859
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_24
+  - first:
+      213: -5926532897421306240
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_25
+  - first:
+      213: -4516577516359253517
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_26
+  - first:
+      213: 4682639536127847
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_27
+  - first:
+      213: -6655017922804215599
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_28
+  - first:
+      213: 1200502614991715101
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_29
+  - first:
+      213: -4730808123427034107
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_30
+  - first:
+      213: -3593266457006169654
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_31
+  - first:
+      213: -612936111539596221
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_32
+  - first:
+      213: -7412965505393478824
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_33
+  - first:
+      213: 2815407661205788825
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_34
+  - first:
+      213: 4187738744903165516
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_35
+  - first:
+      213: -7728047264461682763
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_36
+  - first:
+      213: -2534817312704728550
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_37
+  - first:
+      213: 8778035720641509988
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_38
+  - first:
+      213: -1434524979617928797
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_39
+  - first:
+      213: 5717218982535693173
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_40
+  - first:
+      213: 4486560573087984665
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_41
+  - first:
+      213: 3679574889521403224
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_42
+  - first:
+      213: 2637238779848035677
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_43
+  - first:
+      213: 760644981702927960
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_44
+  - first:
+      213: 6006721589507409562
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_45
+  - first:
+      213: 7311022959075464270
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_46
+  - first:
+      213: -4804331680574647195
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_47
+  - first:
+      213: -6117215285878861303
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_48
+  - first:
+      213: 1764510377648577729
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_49
+  - first:
+      213: -6587663945169897679
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_50
+  - first:
+      213: 5882395027262747121
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_51
+  - first:
+      213: -3553057023612125665
+    second: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 995
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afacd3ca6ee70a900800000000000000
+      internalID: 693693871812365050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 993
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60074f466ad99fc30800000000000000
+      internalID: 4393716249460502534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 996
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82691ffcc251820b0800000000000000
+      internalID: -5753325241754347992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 996
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b198bc68a1429f0800000000000000
+      internalID: -494240892861211793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 995
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e55a1cb6e26d580800000000000000
+      internalID: -8802797381303837134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 996
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580d8fccc15245630800000000000000
+      internalID: 3914794781719974021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 993
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a97b70b0fc685e0800000000000000
+      internalID: -1907609745863763348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 996
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f58bfb7c1c90020800000000000000
+      internalID: 2308589347663273743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 996
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b360fdedfff9480800000000000000
+      internalID: -8890105806716519545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 996
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d13bd4c9884ff6d0800000000000000
+      internalID: -2954563073981337133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 993
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8e014a155e6e870800000000000000
+      internalID: 8711902668002486485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 995
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f793119cbc8dc1e70800000000000000
+      internalID: 9087376517890128255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 996
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49df57ebf9d55c40800000000000000
+      internalID: 5500542195844766029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 995
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84510544b65019b30800000000000000
+      internalID: 4292217878126531912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 996
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aca5d1bde63b4100800000000000000
+      internalID: 93228611809946793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 996
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5363ccf19deb09cb0800000000000000
+      internalID: -4859174158182107595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 532
+        width: 250
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa5e9573ee6dcd30800000000000000
+      internalID: 4453337529749232289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 532
+        width: 258
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4aefd951dcad550800000000000000
+      internalID: 6186482530875516129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 760
+        width: 226
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441b42466b328f660800000000000000
+      internalID: 7419719652364038468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 763
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c0951b8eeab70c0800000000000000
+      internalID: -4576872281860928409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 763
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5043a570da9d1b0800000000000000
+      internalID: -5631279611960359429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 763
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ce4ba219a18e910800000000000000
+      internalID: 1866771256334150797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 741
+        width: 237
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d777d7c48fe9f40800000000000000
+      internalID: 5737295982722776408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 739
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676925e30533a85d0800000000000000
+      internalID: -3059576577108830602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 513
+        width: 209
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5120f3f994a6c6690800000000000000
+      internalID: -7607588806098746859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 259
+        width: 123
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086598bdab9b0cda0800000000000000
+      internalID: -5926532897421306240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 483
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f104e0cda4e151c0800000000000000
+      internalID: -4516577516359253517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 483
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f792af5d2a01000800000000000000
+      internalID: 4682639536127847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 484
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d095618570a4a3a0800000000000000
+      internalID: -6655017922804215599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 483
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b328e84ca09a010800000000000000
+      internalID: 1200502614991715101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 484
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c699e931bc85eb0800000000000000
+      internalID: -4730808123427034107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 484
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac122def137222ec0800000000000000
+      internalID: -3593266457006169654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 483
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3445ca1aad96e77f0800000000000000
+      internalID: -612936111539596221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 483
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8533ccef52bdf1990800000000000000
+      internalID: -7412965505393478824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 276
+        width: 18
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9989518e956521720800000000000000
+      internalID: 2815407661205788825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 276
+        width: 245
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46e71e6336dd1a30800000000000000
+      internalID: 4187738744903165516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_36
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 237
+        width: 185
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7055a35f570c490800000000000000
+      internalID: -7728047264461682763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_37
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 507
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1279b9851582dcd0800000000000000
+      internalID: -2534817312704728550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_38
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 493
+        width: 224
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46af68adaf8d1d970800000000000000
+      internalID: 8778035720641509988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_39
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 237
+        width: 173
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9e278a12b871ce0800000000000000
+      internalID: -1434524979617928797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_40
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 276
+        width: 18
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573092d9f54a75f40800000000000000
+      internalID: 5717218982535693173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_41
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 485
+        width: 237
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cae260217734e30800000000000000
+      internalID: 4486560573087984665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_42
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 236
+        width: 237
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855de56edd9701330800000000000000
+      internalID: 3679574889521403224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 227
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d0ab492ba599420800000000000000
+      internalID: 2637238779848035677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_44
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 228
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856269ea49a5e8a00800000000000000
+      internalID: 760644981702927960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_45
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 228
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96424fe5792c5350800000000000000
+      internalID: 6006721589507409562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 228
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e441b6455a8f57560800000000000000
+      internalID: 7311022959075464270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_47
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 227
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564513c7ac5935db0800000000000000
+      internalID: -4804331680574647195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_48
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 228
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902d99e9b194b1ba0800000000000000
+      internalID: -6117215285878861303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_49
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 110
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccdb36f6dccc7810800000000000000
+      internalID: 1764510377648577729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 227
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137ff787b8ae394a0800000000000000
+      internalID: -6587663945169897679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_51
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 228
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1358c6c1772a150800000000000000
+      internalID: 5882395027262747121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 7
+        width: 69
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e74e0467101bec0800000000000000
+      internalID: -3553057023612125665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 228
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54b5cae7890a4115b472cff6e735ee8
+      internalID: 985357201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 131
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5542c2632754c46e8a6ea462e935ba8d
+      internalID: 1510866877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_55
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 7
+        width: 57
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0ea70fe8db645388f404499293561e
+      internalID: 1434248461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_56
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 110
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170279014158940798bf1114e2feb347
+      internalID: -4017598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_57
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 7
+        width: 69
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6ad69643ac7457e8981f7e1628a608
+      internalID: 979744115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_58
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 110
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecc5afde6dee471d83585ea7b0a17b0
+      internalID: -1861179741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 44974b7a3b02b4fc88eb52d79f7e9330
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_0: 693693871812365050
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_1: 4393716249460502534
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_10: 8711902668002486485
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_11: 9087376517890128255
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_12: 5500542195844766029
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_13: 4292217878126531912
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_14: 93228611809946793
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_15: -4859174158182107595
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_16: 4453337529749232289
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_17: 6186482530875516129
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_18: 7419719652364038468
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_19: -4576872281860928409
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_2: -5753325241754347992
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_20: -5631279611960359429
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_21: 1866771256334150797
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_22: 5737295982722776408
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_23: -3059576577108830602
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_24: -7607588806098746859
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_25: -5926532897421306240
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_26: -4516577516359253517
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_27: 4682639536127847
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_28: -6655017922804215599
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_29: 1200502614991715101
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_3: -494240892861211793
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_30: -4730808123427034107
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_31: -3593266457006169654
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_32: -612936111539596221
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_33: -7412965505393478824
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_34: 2815407661205788825
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_35: 4187738744903165516
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_36: -7728047264461682763
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_37: -2534817312704728550
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_38: 8778035720641509988
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_39: -1434524979617928797
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_4: -8802797381303837134
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_40: 5717218982535693173
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_41: 4486560573087984665
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_42: 3679574889521403224
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_43: 2637238779848035677
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_44: 760644981702927960
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_45: 6006721589507409562
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_46: 7311022959075464270
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_47: -4804331680574647195
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_48: -6117215285878861303
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_49: 1764510377648577729
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_5: 3914794781719974021
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_50: -6587663945169897679
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_51: 5882395027262747121
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_52: -3553057023612125665
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_53: 985357201
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_54: 1510866877
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_55: 1434248461
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_56: -4017598
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_57: 979744115
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_58: -1861179741
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_6: -1907609745863763348
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_7: 2308589347663273743
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_8: -8890105806716519545
+      unit_7_cyborg_rogue_walk_cycle_sheet_1024 (1)_9: -2954563073981337133
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -7,7 +7,7 @@ public class PlayerMovement2D : MonoBehaviour
     public float slowedSpeed = 1.5f;
     public Transform startPoint;
 
-    [Header("Sprites")] // هذه هي الخانات التي ستبحثين عنها
+    [Header("Sprites")]
     public Sprite frontSprite; 
     public Sprite backSprite;  
     public Sprite sideSprite;  
@@ -38,7 +38,7 @@ public class PlayerMovement2D : MonoBehaviour
         if (movement.x != 0) // يمين أو يسار
         {
             sr.sprite = sideSprite; 
-            sr.flipX = (movement.x < 0); // يقلب الصورة إذا مشى يسار
+            sr.flipX = (movement.x > 0); // يقلب الصورة إذا مشى يمين (لأن الصورة الأصلية تواجه اليسار)
         }
         else if (movement.y > 0) // فوق (ظهر الروبوت)
         {

@@ -129,4 +129,32 @@ public class SmartEnemyMovement2D : MonoBehaviour
         float targetAngle = Mathf.Atan2(moveDirection.y, moveDirection.x) * Mathf.Rad2Deg - 90f;
         enemyLight.rotation = Quaternion.Lerp(enemyLight.rotation, Quaternion.Euler(0f, 0f, targetAngle), lightTurnSpeed * Time.fixedDeltaTime);
     }
+
+    // --- Collision / Trigger Checking Logic ---
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        // Checks if the triggered object has the tag "Player"
+        if (other.CompareTag("Player"))
+        {
+            PlayerMovement2D playerMovement = other.GetComponent<PlayerMovement2D>();
+            if (playerMovement != null)
+            {
+                playerMovement.Die();
+            }
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        // Checks if the collided object has the tag "Player"
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            PlayerMovement2D playerMovement = collision.gameObject.GetComponent<PlayerMovement2D>();
+            if (playerMovement != null)
+            {
+                playerMovement.Die();
+            }
+        }
+    }
 }

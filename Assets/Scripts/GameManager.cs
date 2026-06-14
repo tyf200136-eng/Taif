@@ -39,24 +39,39 @@ public class GameManager : MonoBehaviour
         }
         else
         {
+            // Safety Copy: Transfer Level 2 Inspector references to the persistent Level 1 instance
+            instance.scoreText = this.scoreText;
+            instance.gameOverPanel = this.gameOverPanel;
+            instance.winPanel = this.winPanel;
+            instance.exitDoor = this.exitDoor;
+            instance.spawnPositions = this.spawnPositions;
+            instance.starPrefab = this.starPrefab;
+            instance.blockedLayers = this.blockedLayers;
+            instance.checkRadius = this.checkRadius;
+            instance.starsToWin = this.starsToWin;
+
+            // Re-initialize scene items for the new level
+            instance.InitializeNewLevel();
+
             Destroy(gameObject);
         }
     }
 
     private void Start()
     {
-        // Initialize the UI text with the starting score
+        // Initialize the UI text and panel visibility for Level 1
+        InitializeNewLevel();
+    }
+
+    // Resets score, updates UI, and hides panels/doors at the start of a level
+    private void InitializeNewLevel()
+    {
+        totalScore = 0; // Reset score for the new level
         UpdateScoreUI();
 
-        // Ensure the game over and win panels are hidden at the start of the level
         if (gameOverPanel != null) gameOverPanel.SetActive(false);
         if (winPanel != null) winPanel.SetActive(false);
-
-        // Hide the exit door at the start of the level
-        if (exitDoor != null)
-        {
-            exitDoor.SetActive(false);
-        }
+        if (exitDoor != null) exitDoor.SetActive(false);
     }
 
     // Adds score, updates UI, checks for door appearance, and triggers next star spawn
@@ -121,6 +136,23 @@ public class GameManager : MonoBehaviour
     {
         Time.timeScale = 1f; // Unfreeze time so the game can run again
         SceneManager.LoadScene(SceneManager.GetActiveScene().name); // Reload current scene
+    }
+
+    // Unfreezes the game and loads the next scene index in Build Settings
+    public void LoadNextLevel()
+    {
+        Time.timeScale = 1f; // Reset time scale so the next level is unfrozen
+        int nextSceneIndex = SceneManager.GetActiveScene().buildIndex + 1;
+
+        // Ensure we don't try to load beyond our available scenes
+        if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
+        {
+            SceneManager.LoadScene(nextSceneIndex);
+        }
+        else
+        {
+            Debug.LogWarning("GameManager: No next level found in Build Settings!");
+        }
     }
 
     // Safely spawns a new star at a random location
